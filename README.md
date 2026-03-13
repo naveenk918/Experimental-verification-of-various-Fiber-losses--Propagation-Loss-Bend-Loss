@@ -94,7 +94,7 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 ![image alt](https://github.com/naveenk918/Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss/blob/ac823cb3fd6517bbd72e167ebc26cca71742fd0e/WhatsApp%20Image%202026-03-13%20at%203.22.46%20PM.jpeg)
-
+![image alt](https://github.com/naveenk918/Experimental-verification-of-various-Fiber-losses--Propagation-Loss-Bend-Loss/blob/51766d5fe4ac90f4804383170cf9f5c6dbd07a64/WhatsApp%20Image%202026-03-13%20at%203.22.46%20PM%20(1).jpeg)
 
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
